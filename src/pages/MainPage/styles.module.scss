@@ -1,0 +1,7 @@
+.wrapper {
+  @apply flex flex-col items-center mt-6 h-4/5;
+
+  .canvas {
+    @apply w-full h-full bg-gray-200;
+  }
+}
